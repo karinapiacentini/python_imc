@@ -44,6 +44,8 @@ agregar_pesaje_historial, en dicha rama se tiene que hacer:
 NOTA: Si se tarda más de un día se tiene que subir el progreso a github antes de terminar la jornada(git add, git commit -m
 y git push)
 Una vez terminado y con el correcto funcionamiento, mergear a main.
+PUNTO REALIZADO
+  
 
 2) En otra rama llama agregar_conexion_bd hacer:
  Debemos crear una bd llamada programaimc, con una tabla llamada historial_imc con los siguientes datos:
